@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀 Let's explore, innovate, and build amazing th
 ---
 
 ## 👨‍💻 About Me:
-- 🎓 **B.Tech in CSE**, VIT-AP University (2025) 
+- 🎓 **B.Tech in CSE**, VIT University (2025) 
 - 💼 Passionate about **Web Development**, **SDE**, and **Machine Learning**
 - 📍 From the beautiful city of **Visakhapatnam**, Andhra Pradesh, India 🇮🇳
 - 🏆 **Achievements**: 
